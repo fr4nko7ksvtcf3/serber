@@ -1,0 +1,213 @@
+:main
+a_name Plugins Fancy By M1sti
+a_version 1.4
+a_author M1sti
+
+:button LiteAnnouncer.jar
+text Instalar LiteAnnouncer.jar
+say Descargando LiteAnnouncer.jar
+say Instalando LiteAnnouncer.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/d3yfhwrrknnl7ak/LiteAnnouncer.jar/file LiteAnnouncer.jar
+say LiteAnnouncer.jar Instalado!
+sleep 3
+
+:button AuctionHouse-1.20.4-3.7.1.jar
+text Instalar AuctionHouse-1.20.4-3.7.1.jar
+say Descargando AuctionHouse-1.20.4-3.7.1.jar
+say Instalando AuctionHouse-1.20.4-3.7.1.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/py3qgnzeawl6o2q/AuctionHouse-1.20.4-3.7.1.jar/file AuctionHouse-1.20.4-3.7.1.jar
+say AuctionHouse-1.20.4-3.7.1.jar Instalado!
+sleep 3 
+
+
+:button ChestShop.jar
+text Instalar ChestShop.jar
+say Descargando ChestShop.jar
+say Instalando ChestShop.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/0tbx8ijqy58qvsu/ChestShop.jar/file ChestShop.jar
+say ChestShop.jar Instalado!
+sleep 3 
+
+:button Vault.jar
+text Instalar Vault.jar
+say Descargando Vault.jar
+say Instalando Vault.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/n7vbmhqan3x9djn/Vault.jar/file Vault.jar
+say Vault.jar Instalado!
+sleep 3 
+
+:button ViaVersion-5.0.0.jar
+text Instalar ViaVersion-5.0.0.jar
+say Descargando ViaVersion-5.0.0.jar
+say Instalando ViaVersion-5.0.0.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/hanwfv11hjmapd0/ViaVersion-5.0.0.jar/file ViaVersion-5.0.0.jar
+say ViaVersion-5.0.0.jar Instalado!
+sleep 3 
+
+
+:button worldguard-bukkit-7.0.10-dist.jar
+text Instalar worldguard-bukkit-7.0.10-dist.jar
+say Descargando worldguard-bukkit-7.0.10-dist.jar
+say Instalando worldguard-bukkit-7.0.10-dist.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/ld8to8pndj4thea/worldguard-bukkit-7.0.10-dist.jar/file worldguard-bukkit-7.0.10-dist.jar
+say worldguard-bukkit-7.0.10-dist.jar Instalado!
+sleep 3 
+
+
+:button worldedit-bukkit-7.3.3.jar
+text Instalar worldedit-bukkit-7.3.3.jar
+say Descargando worldedit-bukkit-7.3.3.jar
+say Instalando worldedit-bukkit-7.3.3.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/uhwylpug3hwnm8v/worldedit-bukkit-7.3.3.jar/file worldedit-bukkit-7.3.3.jar
+say worldedit-bukkit-7.3.3.jar Instalado!
+sleep 3 
+
+
+:button PlotMe [OFFICIAL] 0.16.3
+text Instalar PlotMe [OFFICIAL] 0.16.3
+say Descargando PlotMe [OFFICIAL] 0.16.3
+say Instalando PlotMe [OFFICIAL] 0.16.3
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/5bwrbjgcm67oxta/DynmapPlotMe.jar/file DynmapPlotMe
+say DynmapPlotMe Instalado!
+download_file https://www.mediafire.com/file/j22lezclcf6uyz1/PlotMe-Core.jar/file PlotMe-Core.jar 
+say DPlotMe-Core.jar Instalado! 
+download_file https://www.mediafire.com/file/fyqizwt12lx85e4/PlotMe-DefaultGenerator.jar/file DefaultGenerator.jar
+say DefaultGenerator.jar Instalado!
+sleep 3 
+
+:button ProtectionStones-2.10.4.jar
+text Instalar ProtectionStones-2.10.4.jar
+say Descargando ProtectionStones-2.10.4.jar
+say Instalando ProtectionStones-2.10.4.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/tvx5vxk3b2vb4yi/ProtectionStones-2.10.4.jar/file ProtectionStones-2.10.4.jar
+say ProtectionStones-2.10.4.jar Instalado!
+sleep 3 
+
+
+:button MenuReport.jar
+text Instalar MenuReport.jar
+say Descargando MenuReport.jar
+say Instalando MenuReport.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/qnywz03mznyio2t/MenuReport.jar/file MenuReport.jar
+say MenuReport.jar Instalado!
+sleep 3 
+
+
+:button HolographicDisplays.jar
+text Instalar HolographicDisplays.jar
+say Descargando HolographicDisplays.jar
+say Instalando HolographicDisplays.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/yg1d1s6b463w1ne/HolographicDisplays.jar/file HolographicDisplays.jar
+say HolographicDisplays.jar Instalado!
+sleep 3 
+
+:button Multiverse-Core-4.3.1.jar
+text Instalar Multiverse-Core-4.3.1.jar
+say Descargando Multiverse-Core-4.3.1.jar
+say Instalando Multiverse-Core-4.3.1.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/18f0o9na8g7qch4/Multiverse-Core-4.3.1.jar/file Multiverse-Core-4.3.1.jar
+say Multiverse-Core-4.3.1.jar Instalado!
+sleep 3 
+
+:button NametagEdit.jar
+text Instalar NametagEdit.jar
+say Descargando NametagEdit.jar
+say Instalando NametagEdit.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/3nkt3qbm0llg7e7/NametagEdit.jar/file NametagEdit.jar
+say NametagEdit.jar Instalado!
+sleep 3 
+
+:button Shopkeepers-2.21.0.jar
+text Instalar Shopkeepers-2.21.0.jar
+say Descargando Shopkeepers-2.21.0.jar
+say Instalando Shopkeepers-2.21.0.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/3sjaz5is5j8f4tu/Shopkeepers-2.21.0.jar/file Shopkeepers-2.21.0.jar
+say Shopkeepers-2.21.0.jar Instalado!
+sleep 3 
+
+:button LuckPerms-Bukkit-5.4.131.jar
+text Instalar LuckPerms-Bukkit-5.4.131.jar
+say Descargando LuckPerms-Bukkit-5.4.131.jar
+say Instalando LuckPerms-Bukkit-5.4.131.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/x43ot3589obz9rr/LuckPerms-Bukkit-5.4.131.jar/file LuckPerms-Bukkit-5.4.131.jar
+say LuckPerms-Bukkit-5.4.131.jar Instalado!
+sleep 3 
+
+:button EssentialsX-2.21.0-dev%252B93-3a6fdd9.jar
+text Instalar EssentialsX-2.21.0-dev%252B93-3a6fdd9.jar
+say Descargando EssentialsX-2.21.0-dev%252B93-3a6fdd9.jar
+say Instalando EssentialsX-2.21.0-dev%252B93-3a6fdd9.jar
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/bs3vaaj0i88grxo/EssentialsX-2.21.0-dev%252B93-3a6fdd9.jar/file EssentialsX-2.21.0-dev%252B93-3a6fdd9.jar
+say EssentialsX-2.21.0-dev%252B93-3a6fdd9.jar Instalado!
+sleep 3 
+
+:button ClearLagg
+text Instalar ClearLagg
+say Descargando ClearLagg
+say Instalando ClearLagg
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/pldrvj7sbaa2du7/Clearlag.jar/file ClearLag.jar
+say ClearLagg Instalado!
+sleep 3 
+
+
+
+
+
+:button Pack Personalizacion Plugins
+text Instalar Paquete de plugins de Personalizacion
+say Descargando Paquete de plugins de Personalizacion
+say Instalando Paquete de plugins de Personalizacion
+nav servidor_minecraft
+nav plugins
+download_file https://www.mediafire.com/file/th5nltgr0biahtk/TAB_v4.1.6.jar/file TAB_v4.1.6.jar
+say Descargando TAB_v4.1.6.jar
+download_file https://www.mediafire.com/file/9671shryb146xfs/PlaceholderAPI-2.11.6.jar/file PlaceholderAPI-2.11.6.jar
+say Descargando PlaceholderAPI-2.11.6.jar
+download_file https://www.mediafire.com/file/t5itv2ujef6kjnn/sleep-most-5.4.0.jar/file sleep-most-5.4.0
+say Descargando sleep-most-5.4.0
+download_file https://www.mediafire.com/file/aylej1c1zjix7t2/LoginSecurity-Spigot-3.3.0.jar/file LoginSecurity-Spigot-3.3.0
+say Descargando LoginSecurity-Spigot-3.3.0
+download_file https://www.mediafire.com/file/pdagc2dbnaz6yi8/ActionHealth-3.5.9-all.jar/file ActionHealth-3.5.9-all
+say Descargando ActionHealth-3.5.9-all
+download_file https://www.mediafire.com/file/pldrvj7sbaa2du7/Clearlag.jar/file Clearlag
+say Descargando Clearlag
+download_file https://www.mediafire.com/file/xkiygxjos2rq8mc/SkinsRestorer.jar/file SkinsRestorer.jar
+say Descargando SkinsRestorer.jar
+download_file https://www.mediafire.com/file/7swf9cjudnderpt/BlockLocker.jar/file BlockLocker.jar
+say Descargando BlockLocker.jar
+say Pack de plugins instalado correctamente! :)
+sleep 3 
